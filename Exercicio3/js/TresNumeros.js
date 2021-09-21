@@ -7,7 +7,7 @@ if(x != y && y != z && z!= x){
         document.write(`O maior número entre eles é o ${x}`)
     }else if(y>x && y>z){
         document.write(`O maior número entre eles é o ${y}`)
-    }else{
+    }else{  
         document.write(`O maior número entre eles é o ${z}`)
     }
 }else{
